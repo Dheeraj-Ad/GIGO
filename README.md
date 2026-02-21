@@ -4,7 +4,7 @@ A comprehensive OCR system supporting 5 major Indian languages (Hindi, Tamil, Te
 
 ## 🌟 Features
 
-- **Multi-language OCR Support**: Hindi, Tamil, Telugu, Bengali, Gujarati
+- **Multi-language OCR Support**: Hindi, Tamil, Telugu, Bengali, Gujarati,English
 - **Language Auto-detection**: Automatic detection of text language in images
 - **Text Transliteration**: Convert text between different Indian language scripts
 - **Gemini AI Integration**: Advanced text analysis and processing using Google's Gemini AI
