@@ -9,7 +9,7 @@ A comprehensive OCR system supporting 5 major Indian languages (Hindi, Tamil, Te
 - **Text Transliteration**: Convert text between different Indian language scripts
 - **Gemini AI Integration**: Advanced text analysis and processing using Google's Gemini AI
 - **Image Preprocessing**: Automatic image enhancement for better OCR accuracy
-- **Batch Processing**: Support for processing multiple images at once
+- **Batch Processing**: Support for processing multiple images at the same time.
 - **RESTful API**: Easy integration with other applications
 - **Docker Support**: Containerized deployment
 
